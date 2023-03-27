@@ -4,7 +4,7 @@ It is required to implement a general signal generator that has the following sp
 1. When the program starts the program asks the user for the following parameters:<br /> 
 a. Sampling frequency of signal. <br />
 b. Start and end of time scale <br />
-c. Number of the break points and their positions (i.e. the points that the signal definition rule 
+c. Number of the break points and their positions (i.e. the points that the signal definition rule <br />
 changes). <br />
 Example: The signal is defined from -2:0 as a DC signal and from 0:2 as ramp the user will enter that 
 the number of break points =1 and the position at t=0. <br />
